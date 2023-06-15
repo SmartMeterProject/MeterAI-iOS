@@ -1,0 +1,6 @@
+module Pods_MeterAI {
+  umbrella header "Pods-MeterAI-umbrella.h"
+
+  export *
+  module * { export * }
+}
